@@ -34,3 +34,12 @@ public class Main {
         }
     }
 }
+
+/*
+Arrays can only contain a limited number of values whereas ArrayLists have unlimited size.
+Therefore, the number of ELEMENTS in an array need to be specified as such:
+String[] stringArray = new String[5];
+
+You can access and add values to an index as such:
+stringArray[0] = "First Index";
+ */
